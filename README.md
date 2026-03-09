@@ -1,2 +1,1 @@
-## POC &amp; POV Case Studies
-## with Measurable Gains on Obfuscated Real-World Data
+## POC &amp; POV Case Studies: Measurable Gains on Obfuscated Real-World Data
